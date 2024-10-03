@@ -1,8 +1,8 @@
-# ASLIRI PASSIVE LIVENESS WEB
-Passive Liveness by ASLIRI for your web apps. You can verification your client.
+# ASLIRI SMILE LIVENESS WEB
+Smile Liveness by ASLIRI for your web apps. You can verification your client.
 
 ## Get Started
-Before integrating ASLIRI Passive Liveness Web, you need to have an authorization for credentials. Please contact [ASLIRI](https://asliri.id) to get credentials. You will get:
+Before integrating ASLIRI Smile Liveness Web, you need to have an authorization for credentials. Please contact [ASLIRI](https://asliri.id) to get credentials. You will get:
 1. **api-create-session**
 2. **verification-url**
 3. **token-sdk**
@@ -18,7 +18,7 @@ Before integrating ASLIRI Passive Liveness Web, you need to have an authorizatio
 5. If successful our side will redirect to the **callback** url you sent earlier and add the **verify_status** parameter.
 
 
-## How do I integrate ASLIRI Passive Liveness Web ?
+## How do I integrate ASLIRI Smile Liveness Web ?
 
 ### VERIFICATION
 #### 1. Hit the API Create Session
